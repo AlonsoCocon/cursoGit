@@ -1,0 +1,15 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#cabecera{
+    background-color: brown;
+    text-align: center;
+}
+
+section p{
+    font-size: 17px;
+    text-align: justify;
+    margin-left: 12px;
+    margin-top: 30px;
+}
